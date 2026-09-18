@@ -1,0 +1,12 @@
+node_modules/
+artifacts/
+output/
+inputs/
+logs/
+coverage/
+.env
+.env.*
+*.log
+*.tgz
+*.local.*
+.DS_Store
